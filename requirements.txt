@@ -1,0 +1,10 @@
+pypdf
+tqdm
+numpy
+openai
+torch
+torchvision
+Pillow  # PIL is typically installed as Pillow
+scikit-learn
+gradio
+plotly
